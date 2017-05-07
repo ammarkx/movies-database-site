@@ -2,6 +2,6 @@
 Site that can help you save your movies, get another recomended movies and watch trailer.
 
 ###### Structure
-> Login/Register 
-> User Profile
-> Recomend Page
+- Login/Register 
+- User Profile
+- Recommend Page
